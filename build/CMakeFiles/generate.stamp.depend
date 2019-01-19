@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+C:/Users/r_asin3x/Desktop/code/engine/CMakeLists.txt
+C:/Users/r_asin3x/Desktop/code/engine/build/CMakeFiles/3.13.3/CMakeCCompiler.cmake
+C:/Users/r_asin3x/Desktop/code/engine/build/CMakeFiles/3.13.3/CMakeCXXCompiler.cmake
+C:/Users/r_asin3x/Desktop/code/engine/build/CMakeFiles/3.13.3/CMakeRCCompiler.cmake
+C:/Users/r_asin3x/Desktop/code/engine/build/CMakeFiles/3.13.3/CMakeSystem.cmake
+D:/cmake/share/cmake-3.13/Modules/CMakeCInformation.cmake
+D:/cmake/share/cmake-3.13/Modules/CMakeCXXInformation.cmake
+D:/cmake/share/cmake-3.13/Modules/CMakeCommonLanguageInclude.cmake
+D:/cmake/share/cmake-3.13/Modules/CMakeGenericSystem.cmake
+D:/cmake/share/cmake-3.13/Modules/CMakeInitializeConfigs.cmake
+D:/cmake/share/cmake-3.13/Modules/CMakeLanguageInformation.cmake
+D:/cmake/share/cmake-3.13/Modules/CMakeRCInformation.cmake
+D:/cmake/share/cmake-3.13/Modules/CMakeSystemSpecificInformation.cmake
+D:/cmake/share/cmake-3.13/Modules/CMakeSystemSpecificInitialize.cmake
+D:/cmake/share/cmake-3.13/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/cmake/share/cmake-3.13/Modules/Compiler/MSVC-C.cmake
+D:/cmake/share/cmake-3.13/Modules/Compiler/MSVC-CXX.cmake
+D:/cmake/share/cmake-3.13/Modules/Platform/Windows-MSVC-C.cmake
+D:/cmake/share/cmake-3.13/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/cmake/share/cmake-3.13/Modules/Platform/Windows-MSVC.cmake
+D:/cmake/share/cmake-3.13/Modules/Platform/Windows.cmake
+D:/cmake/share/cmake-3.13/Modules/Platform/WindowsPaths.cmake
